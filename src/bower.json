@@ -1,0 +1,7 @@
+{
+  "name": "A Different Brunch Skeleton",
+  "version": "0.0.1",
+  "main": "../public/js/app.js",
+  "dependencies": {},
+  "overrides": {}
+}
